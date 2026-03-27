@@ -14,7 +14,7 @@ people:
   - taireez-niswander
   - kevin-kuykendall
   - robin-yearsley
-dg-home: true
+dg-home: false
 dg-publish: true
 date-created: 2026-03-26
 status: complete
